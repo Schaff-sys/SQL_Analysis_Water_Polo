@@ -1,25 +1,24 @@
-# SQL dumps
-*.sql
+# Ignore SQL dumps (but allow individual .sql files)
 *.dump
 *.bak
 *.sql.gz
 *.tar
 
-# Database files
+# Ignore database files
 *.sqlite
 *.db
 *.sqlite3
 
-# IDE specific files
+# Ignore IDE specific files
 .vscode/
 .idea/
 
-# Operating system specific files
+# Ignore system-specific files
 Thumbs.db
 .DS_Store
 
-# Logs
+# Ignore log files
 *.log
 
-# Environment-specific configurations
+# Ignore environment-specific configurations
 .env
