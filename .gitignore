@@ -1,0 +1,25 @@
+# SQL dumps
+*.sql
+*.dump
+*.bak
+*.sql.gz
+*.tar
+
+# Database files
+*.sqlite
+*.db
+*.sqlite3
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating system specific files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Environment-specific configurations
+.env
